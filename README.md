@@ -1,4 +1,4 @@
-<h1 align="center"> 🤖 Awesome Medical Multi-Agent Systems Survey Papers </h1>
+<h1 align="center"> 🤖 Awesome Medical Multi-Agent Systems Survey </h1>
 
 # 🔥 Our Survey Paper
 
