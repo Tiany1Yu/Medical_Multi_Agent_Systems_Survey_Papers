@@ -2,8 +2,6 @@
 
 # 🔥 Our Survey Paper
 
-Our survey on **LLM-based Medical Multi-Agent Systems** is available at: https://xxxx
-
 In this survey, we propose a hierarchical taxonomy of medical AI systems from **Level 0** to **Level 5**, tracing the transition from standalone medical models to collaborative, self-evolving, and swarm-like multi-agent systems.
 
 The survey focuses on the architectural shift from **Level 3 static collaboration** to **Level 4 adaptive evolution**: from predefined roles and fixed workflows to systems that iteratively refine their internal strategies through interactive feedback. We also discuss governance mechanisms for safety, reliability, privacy, and clinical trustworthiness.
@@ -168,4 +166,7 @@ LLM-based medical multi-agent systems are developing rapidly, and this list may 
 
 # 📬 Contact
 
-For questions or suggestions, please open an issue or contact the repository maintainers.
+For questions or suggestions, please open an issue or contact the repository maintainers:
+
+* **Xinfeng Li**: [xinfeng.li@ntu.edu.sg](mailto:xinfeng.li@ntu.edu.sg)
+* **Tianpei Yang**: [tianpei.yang@nju.edu.cn](mailto:tianpei.yang@nju.edu.cn)
