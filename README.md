@@ -147,7 +147,7 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2021] Beyond performance metrics: modeling outcomes and cost for clinical machine learning** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-021-00495-4)
 - **[2021] Dynamic memory to alleviate catastrophic forgetting in continual learning with medical imaging** (Nature Communications) [[paper]](https://www.nature.com/articles/s41467-021-25858-z)
 - **[2020] Shapley Q-Value: A Local Reward Approach to Solve Global Reward Games** (AAAI) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6220)
-- **[2019] Learning to Schedule Communications in Deep Multi-Agent Reinforcement Learning** (ICLR) [[paper]](https://openreview.net/forum?id=SJxu5iR9KQ)
+- **[2019] Learning to Schedule Communication in Multi-Agent Reinforcement Learning** (ICLR) [[paper]](https://openreview.net/forum?id=SJxu5iR9KQ)
 - **[2019] Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks** (ICLR) [[paper]](https://iclr.cc/virtual/2019/poster/770)
 - **[2018] Counterfactual Multi-Agent Policy Gradients** (AAAI) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11794)
 - **[2018] Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: A cross-sectional study** (PLOS Medicine) [[paper]](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002683)
