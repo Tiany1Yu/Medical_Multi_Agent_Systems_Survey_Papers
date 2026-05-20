@@ -64,11 +64,11 @@ Following the structure of our survey, the repository organizes papers along the
 
 ## 🧬 2. Foundational Medical LLMs and Single-Agent Systems
 
-- **[2026] Multi-Evidence Clinical Reasoning With Retrieval-Augmented Generation for Emergency Triage: Retrospective Evaluation Study** [[paper]](https://medinform.jmir.org/2026/1/e82026/)
-- **[2025] Clinical entity augmented retrieval for clinical information extraction** [[paper]](https://www.nature.com/articles/s41746-024-01377-1)
-- **[2025] Clinician-informed XAI evaluation checklist with metrics (CLIX-M) for AI-powered clinical decision support systems** [[paper]](https://www.nature.com/articles/s41746-025-01764-2)
-- **[2025] Evaluating clinical AI summaries with large language models as judges** [[paper]](https://www.nature.com/articles/s41746-025-02005-2)
-- **[2023] Making machine learning matter to clinicians: model actionability in medical decision-making** [[paper]](https://www.nature.com/articles/s41746-023-00753-7)
+- **[2026] Multi-Evidence Clinical Reasoning With Retrieval-Augmented Generation for Emergency Triage: Retrospective Evaluation Study** (JMIR Medical Informatics) [[paper]](https://medinform.jmir.org/2026/1/e82026/)
+- **[2025] Clinical entity augmented retrieval for clinical information extraction** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-024-01377-1)
+- **[2025] Clinician-informed XAI evaluation checklist with metrics (CLIX-M) for AI-powered clinical decision support systems** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01764-2)
+- **[2025] Evaluating clinical AI summaries with large language models as judges** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-02005-2)
+- **[2023] Making machine learning matter to clinicians: model actionability in medical decision-making** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-023-00753-7)
 - **[2023] Med-halt: Medical domain hallucination test for large language models** [[paper]](https://aclanthology.org/2023.conll-1.21/)
 - **[2022] Expected value of artificial intelligence in gastrointestinal endoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Position Statement** [[paper]](https://www.thieme-connect.com/products/ejournals/html/10.1055/a-1950-5694)
 
@@ -77,17 +77,17 @@ Following the structure of our survey, the repository organizes papers along the
 ## 🤝 3. Level 3 Static Medical Multi-Agent Collaboration
 
 - **[2026] Medla: A logic-driven multi-agent framework for complex medical reasoning with large language models** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37052)
-- **[2026] Orchestrated multi agents sustain accuracy under clinical-scale workloads compared to a single agent** [[paper]](https://www.nature.com/articles/s44401-026-00077-0)
-- **[2025] CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes** [[paper]](https://www.nature.com/articles/s41746-025-01940-4)
-- **[2025] Enhancing diagnostic capability with multi-agents conversational large language models** [[paper]](https://www.nature.com/articles/s41746-025-01550-0)
+- **[2026] Orchestrated multi agents sustain accuracy under clinical-scale workloads compared to a single agent** (Nature Portfolio) [[paper]](https://www.nature.com/articles/s44401-026-00077-0)
+- **[2025] CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01940-4)
+- **[2025] Enhancing diagnostic capability with multi-agents conversational large language models** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01550-0)
 - **[2025] Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases** [[paper]](https://raw.githubusercontent.com/mlresearch/v298/main/assets/kim25a/kim25a.pdf)
 - **[2025] Kg4diagnosis: A hierarchical multi-agent llm framework with knowledge graph enhancement for medical diagnosis** [[paper]](https://proceedings.mlr.press/v281/zuo25a.html)
 - **[2025] MedARC: Adaptive multi-agent refinement and collaboration for enhanced medical reasoning in large language models** [[paper]](https://www.sciencedirect.com/science/article/pii/S1386505625003533)
-- **[2025] MoMA: a mixture-of-multimodal-agents architecture for enhancing clinical prediction modelling** [[paper]](https://www.nature.com/articles/s41746-025-02219-4)
+- **[2025] MoMA: a mixture-of-multimodal-agents architecture for enhancing clinical prediction modelling** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-02219-4)
 - **[2024] Improving multi-agent debate with sparse communication topology** [[paper]](https://aclanthology.org/2024.findings-emnlp.427/)
 - **[2024] Mdagents: An adaptive collaboration of llms for medical decision-making** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90d1fc07f46e31387978b88e7e057a31-Abstract-Conference.html)
 - **[2024] Medagents: Large language models as collaborators for zero-shot medical reasoning** [[paper]](https://aclanthology.org/2024.findings-acl.33/)
-- **[2024] Mitigating cognitive biases in clinical decision-making through multi-agent conversations using large language models: simulation study** [[paper]](https://www.jmir.org/2024/1/e59439/)
+- **[2024] Mitigating cognitive biases in clinical decision-making through multi-agent conversations using large language models: simulation study** (Journal of Medical Internet Research) [[paper]](https://www.jmir.org/2024/1/e59439/)
 - **[2023] Chatdoctor: A medical chat model fine-tuned on a large language model meta-ai (llama) using medical domain knowledge** [[paper]](https://www.cureus.com/articles/152858-chatdoctor-a-medical-chat-model-fine-tuned-on-a-large-language-model-meta-ai-llama-using-medical-domain-knowledge.pdf)
 
 ---
@@ -96,7 +96,7 @@ Following the structure of our survey, the repository organizes papers along the
 
 - **[2026] Doctor-R1: Mastering Clinical Inquiry with Experiential Agentic Reinforcement Learning** [[paper]](https://openreview.net/forum?id=vQGHTyL0Jw)
 - **[2026] Doctoragent-rl: A multi-agent collaborative reinforcement learning system for multi-turn clinical dialogue** [[paper]](https://ieeexplore.ieee.org/abstract/document/11460976/)
-- **[2026] Empowering AI Data Scientists Using a Multi-Agent LLM Framework with Self-Evolving Capabilities for Autonomous, Tool-Aware Biomedical Data Analyses** [[paper]](https://doi.org/10.1038/s41551-026-01634-6)
+- **[2026] Empowering AI Data Scientists Using a Multi-Agent LLM Framework with Self-Evolving Capabilities for Autonomous, Tool-Aware Biomedical Data Analyses** (Nature Biomedical Engineering) [[paper]](https://doi.org/10.1038/s41551-026-01634-6)
 - **[2026] Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning** [[paper]](https://openreview.net/forum?id=7vHUQCMAzG)
 - **[2026] MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science** [[paper]](https://openreview.net/forum?id=jHDZEUgS4r)
 - **[2026] MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning** [[paper]](https://openreview.net/forum?id=2awntLXwR6)
@@ -126,7 +126,7 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2026] Beyond Classification Accuracy: Neural-MedBench and the Need for Deeper Reasoning Benchmarks** [[paper]](https://openreview.net/forum?id=KKA59ai0x6)
 - **[2026] TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis** [[paper]](https://openreview.net/forum?id=bmQXN1Kg5i)
 - **[2025] 3mdbench: Medical multimodal multi-agent dialogue benchmark** [[paper]](https://aclanthology.org/2025.emnlp-main.1353/)
-- **[2025] Automating expert-level medical reasoning evaluation of large language models** [[paper]](https://www.nature.com/articles/s41746-025-02208-7)
+- **[2025] Automating expert-level medical reasoning evaluation of large language models** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-02208-7)
 - **[2025] Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration** [[paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714877)
 - **[2025] Examining the Vulnerability of Multi-Agent Medical Systems to Human Interventions for Clinical Reasoning** [[paper]](https://openreview.net/forum?id=1rngmK4d2c)
 - **[2025] Healthbench: Evaluating large language models towards improved human health** [[paper]](https://arxiv.org/abs/2505.08775)
@@ -135,10 +135,10 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2025] Medagentbench: A realistic virtual ehr environment to benchmark medical llm agents** [[paper]](https://arxiv.org/abs/2501.14654)
 - **[2025] MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks** [[paper]](https://arxiv.org/abs/2505.12371)
 - **[2025] Medagentsbench: Benchmarking thinking models and agent frameworks for complex medical reasoning** [[paper]](https://arxiv.org/abs/2503.07459)
-- **[2026] Holistic evaluation of large language models for medical tasks with MedHELM** [[paper]](https://www.nature.com/articles/s41591-025-04151-2)
+- **[2026] Holistic evaluation of large language models for medical tasks with MedHELM** (Nature Medicine) [[paper]](https://www.nature.com/articles/s41591-025-04151-2)
 - **[2025] Medkgeval: A knowledge graph-based multi-turn evaluation framework for open-ended patient interactions with clinical llms** [[paper]](https://arxiv.org/abs/2510.12224)
 - **[2025] Medxpertqa: Benchmarking expert-level medical reasoning and understanding** [[paper]](https://arxiv.org/abs/2501.18362)
-- **[2025] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** [[paper]](https://arxiv.org/abs/2505.00212)
+- **[2025] Which Agent Causes Task Failure and When? On Automated Failure Attribution of LLM Multi-Agent Systems** [[paper]](https://arxiv.org/abs/2505.00212)
 - **[2024] Agentclinic: a multimodal agent benchmark to evaluate ai in simulated clinical environments** [[paper]](https://arxiv.org/abs/2405.07960)
 - **[2024] Medsafetybench: Evaluating and improving the medical safety of large language models** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3ac952d0264ef7a505393868a70a46b6-Abstract-Datasets_and_Benchmarks_Track.html)
 - **[2023] Benchmarking large language models on cmexam-a comprehensive chinese medical exam dataset** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a48ad12d588c597f4725a8b84af647b5-Abstract-Datasets_and_Benchmarks.html)
@@ -147,22 +147,22 @@ Following the structure of our survey, the repository organizes papers along the
 
 ## 🛡️ 7. Safety, Privacy, and Ethics Governance
 
-- **[2025] An evaluation framework for clinical use of large language models in patient interaction tasks** [[paper]](https://www.nature.com/articles/s41591-024-03328-5)
+- **[2025] An evaluation framework for clinical use of large language models in patient interaction tasks** (Nature Medicine) [[paper]](https://www.nature.com/articles/s41591-024-03328-5)
 - **[2025] Architecting Utopias: How AI in Healthcare Envisions Societal Ideals and Human Flourishing** [[paper]](https://dl.acm.org/doi/abs/10.1145/3706598.3713118)
 - **[2025] Blockchain enabled policy-based access control mechanism to restrict unauthorized access to electronic health records** [[paper]](https://peerj.com/articles/cs-2647/)
 - **[2025] Can we trust AI doctors? a survey of medical hallucination in large language and large vision-language models** [[paper]](https://aclanthology.org/2025.findings-acl.350/)
-- **[2025] Deidentifying medical documents with local, privacy-preserving large language models: the LLM-anonymizer** [[paper]](https://ai.nejm.org/doi/abs/10.1056/AIdbp2400537)
+- **[2025] Deidentifying medical documents with local, privacy-preserving large language models: the LLM-anonymizer** (NEJM AI) [[paper]](https://ai.nejm.org/doi/abs/10.1056/AIdbp2400537)
 - **[2025] Medsentry: Understanding and mitigating safety risks in medical llm multi-agent systems** [[paper]](https://arxiv.org/abs/2505.20824)
-- **[2025] Towards fairness-aware and privacy-preserving enhanced collaborative learning for healthcare** [[paper]](https://www.nature.com/articles/s41467-025-58055-3)
-- **[2024] Augmented non-hallucinating large language models as medical information curators** [[paper]](https://www.nature.com/articles/s41746-024-01081-0)
+- **[2025] Towards fairness-aware and privacy-preserving enhanced collaborative learning for healthcare** (Nature Communications) [[paper]](https://www.nature.com/articles/s41467-025-58055-3)
+- **[2024] Augmented non-hallucinating large language models as medical information curators** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-024-01081-0)
 - **[2024] Chain-of-verification reduces hallucination in large language models** [[paper]](https://aclanthology.org/2024.findings-acl.212/)
 - **[2024] How much decision power should (A) I have?: investigating patients’ preferences towards ai autonomy in healthcare decision making** [[paper]](https://dl.acm.org/doi/abs/10.1145/3613904.3642883)
-- **[2024] On responsible machine learning datasets emphasizing fairness, privacy and regulatory norms with examples in biometrics and healthcare** [[paper]](https://www.nature.com/articles/s42256-024-00874-y)
+- **[2024] On responsible machine learning datasets emphasizing fairness, privacy and regulatory norms with examples in biometrics and healthcare** (Nature Machine Intelligence) [[paper]](https://www.nature.com/articles/s42256-024-00874-y)
 - **[2024] Rethinking human-AI collaboration in complex medical decision making: a case study in sepsis diagnosis** [[paper]](https://dl.acm.org/doi/abs/10.1145/3613904.3642343)
 - **[2023] Accountability in multi-agent organizations: from conceptual design to agent programming** [[paper]](https://link.springer.com/article/10.1007/s10458-022-09590-6)
 - **[2023] Healthcare AI treatment decision support: Design principles to enhance clinician adoption and trust** [[paper]](https://dl.acm.org/doi/abs/10.1145/3544548.3581251)
 - **[2023] HIPAA and GDPR compliance in IoT healthcare systems** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-55729-3_16)
-- **[2023] Large language models propagate race-based medicine** [[paper]](https://www.nature.com/articles/s41746-023-00939-z)
+- **[2023] Large language models propagate race-based medicine** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-023-00939-z)
 - **[2019] Threat modeling--A systematic literature review** [[paper]](https://www.sciencedirect.com/science/article/pii/S0167404818307478)
 
 ---
