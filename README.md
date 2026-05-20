@@ -122,7 +122,6 @@ Following the structure of our survey, the repository organizes papers along the
 
 ## 📊 6. Benchmarks and Evaluation
 
-- **[2026] Agentic Hallucination Risk Scoring for Medical LLMs via Uncertainty Quantification and Clinical Knowledge Injection** (Algorithms) [[paper]](https://www.mdpi.com/1999-4893/19/4/315)
 - **[2026] Beyond Classification Accuracy: Neural-MedBench and the Need for Deeper Reasoning Benchmarks** (ICLR) [[paper]](https://openreview.net/forum?id=KKA59ai0x6)
 - **[2026] TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis** (ICLR) [[paper]](https://openreview.net/forum?id=bmQXN1Kg5i)
 - **[2025] 3mdbench: Medical multimodal multi-agent dialogue benchmark** (EMNLP) [[paper]](https://aclanthology.org/2025.emnlp-main.1353/)
