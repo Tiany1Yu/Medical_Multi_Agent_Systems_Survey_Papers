@@ -64,20 +64,15 @@ Following the structure of our survey, the repository organizes papers along the
 
 ## 🧬 2. Foundational Medical LLMs and Single-Agent Systems
 
-- **[2026] Multi-Evidence Clinical Reasoning With Retrieval-Augmented Generation for Emergency Triage: Retrospective Evaluation Study** (JMIR Medical Informatics) [[paper]](https://medinform.jmir.org/2026/1/e82026/)
 - **[2025] Clinical entity augmented retrieval for clinical information extraction** (NPJ Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-024-01377-1)
-- **[2025] Clinician-informed XAI evaluation checklist with metrics (CLIX-M) for AI-powered clinical decision support systems** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01764-2)
 - **[2025] Evaluating clinical AI summaries with large language models as judges** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-02005-2)
-- **[2023] Making machine learning matter to clinicians: model actionability in medical decision-making** (NPJ Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-023-00753-7)
 - **[2023] Med-halt: Medical domain hallucination test for large language models** (CoNLL) [[paper]](https://aclanthology.org/2023.conll-1.21/)
-- **[2022] Expected value of artificial intelligence in gastrointestinal endoscopy: European Society of Gastrointestinal Endoscopy (ESGE) Position Statement** (Endoscopy) [[paper]](https://www.thieme-connect.com/products/ejournals/html/10.1055/a-1950-5694)
 
 ---
 
 ## 🤝 3. Level 3 Static Medical Multi-Agent Collaboration
 
 - **[2026] Medla: A logic-driven multi-agent framework for complex medical reasoning with large language models** (AAAI) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37052)
-- **[2026] Orchestrated multi agents sustain accuracy under clinical-scale workloads compared to a single agent** (npj Health Systems) [[paper]](https://www.nature.com/articles/s44401-026-00077-0)
 - **[2025] CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01940-4)
 - **[2025] Enhancing diagnostic capability with multi-agents conversational large language models** (NPJ Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01550-0)
 - **[2025] Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases** (Machine Learning for Healthcare Conference) [[paper]](https://raw.githubusercontent.com/mlresearch/v298/main/assets/kim25a/kim25a.pdf)
@@ -123,6 +118,7 @@ Following the structure of our survey, the repository organizes papers along the
 ## 📊 6. Benchmarks and Evaluation
 
 - **[2026] Beyond Classification Accuracy: Neural-MedBench and the Need for Deeper Reasoning Benchmarks** (ICLR) [[paper]](https://openreview.net/forum?id=KKA59ai0x6)
+- **[2026] Cost-Effective Communication: An Auction-based Method for Language Agent Interaction** (AAAI) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40182)
 - **[2026] TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis** (ICLR) [[paper]](https://openreview.net/forum?id=bmQXN1Kg5i)
 - **[2025] 3mdbench: Medical multimodal multi-agent dialogue benchmark** (EMNLP) [[paper]](https://aclanthology.org/2025.emnlp-main.1353/)
 - **[2025] Automating expert-level medical reasoning evaluation of large language models** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-02208-7)
@@ -139,8 +135,23 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2025] Medxpertqa: Benchmarking expert-level medical reasoning and understanding** (ICML) [[paper]](https://openreview.net/forum?id=IyVcxU0RKI)
 - **[2025] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** (PMLR) [[paper]](https://openreview.net/forum?id=GazlTYxZss&noteId=cypPlShPMW)
 - **[2024] Agentclinic: a multimodal agent benchmark to evaluate ai in simulated clinical environments** (Arxiv Preprint) [[paper]](https://arxiv.org/abs/2405.07960)
+- **[2024] Continual learning for medical image analysis: A survey** (Computers in Biology and Medicine) [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482524012915)
+- **[2024] Improving Factuality and Reasoning in Language Models through Multiagent Debate** (ICML) [[paper]](https://icml.cc/virtual/2024/poster/32620)
 - **[2024] Medsafetybench: Evaluating and improving the medical safety of large language models** (NeurIPS) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/3ac952d0264ef7a505393868a70a46b6-Abstract-Datasets_and_Benchmarks_Track.html)
+- **[2024] Shortcut learning in medical AI hinders generalization: method for estimating AI model generalization without external data** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-024-01118-4)
+- **[2024] The limits of fair medical imaging AI in real-world generalization** (Nature Medicine) [[paper]](https://www.nature.com/articles/s41591-024-03113-4)
 - **[2023] Benchmarking large language models on cmexam-a comprehensive chinese medical exam dataset** (NeurIPS) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a48ad12d588c597f4725a8b84af647b5-Abstract-Datasets_and_Benchmarks.html)
+- **[2023] Self-Consistency Improves Chain of Thought Reasoning in Language Models** (ICLR) [[paper]](https://openreview.net/forum?id=1PL1NIMMrw)
+- **[2022] Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI** (Nature Medicine) [[paper]](https://www.nature.com/articles/s41591-022-01772-9)
+- **[2021] A simulation-based evaluation of machine learning models for clinical decision support: application and analysis using hospital readmission** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-021-00468-7)
+- **[2021] Beyond performance metrics: modeling outcomes and cost for clinical machine learning** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-021-00495-4)
+- **[2021] Dynamic memory to alleviate catastrophic forgetting in continual learning with medical imaging** (Nature Communications) [[paper]](https://www.nature.com/articles/s41467-021-25858-z)
+- **[2020] Shapley Q-Value: A Local Reward Approach to Solve Global Reward Games** (AAAI) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6220)
+- **[2019] Learning to Schedule Communications in Deep Multi-Agent Reinforcement Learning** (ICLR) [[paper]](https://openreview.net/forum?id=SJxu5iR9KQ)
+- **[2019] Learning when to Communicate at Scale in Multiagent Cooperative and Competitive Tasks** (ICLR) [[paper]](https://iclr.cc/virtual/2019/poster/770)
+- **[2018] Counterfactual Multi-Agent Policy Gradients** (AAAI) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11794)
+- **[2018] Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: A cross-sectional study** (PLOS Medicine) [[paper]](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002683)
+- **[2016] Net benefit approaches to the evaluation of prediction models, molecular markers, and diagnostic tests** (BMJ) [[paper]](https://www.bmj.com/content/352/bmj.i6)
 
 ---
 
@@ -168,7 +179,6 @@ Following the structure of our survey, the repository organizes papers along the
 
 ## 🐝 8. Toward Level 5 Medical Agent Swarms and General MAS Inspirations
 
-- **[2026] Overthinking Reduction with Decoupled Rewards and Curriculum Data Scheduling** (ICLR) [[paper]](https://openreview.net/forum?id=kdeiRledV6)
 - **[2025] AFlow: Automating Agentic Workflow Generation** (ICLR) [[paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5492ecbce4439401798dcd2c90be94cd-Abstract-Conference.html)
 - **[2024] AutoAgents: A Framework for Automatic Agent Generation** (IJCAI) [[paper]](https://www.ijcai.org/proceedings/2024/3)
 - **[2024] GPTSwarm: Language Agents as Optimizable Graphs** (PMLR) [[paper]](https://proceedings.mlr.press/v235/zhuge24a.html)
