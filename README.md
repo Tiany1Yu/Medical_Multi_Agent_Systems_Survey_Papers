@@ -96,13 +96,13 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2026] MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science** (ICLR) [[paper]](https://openreview.net/forum?id=jHDZEUgS4r)
 - **[2026] MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning** (ICLR) [[paper]](https://openreview.net/forum?id=2awntLXwR6)
 - **[2026] PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis** (AAAI) [[paper]](https://doi.org/10.1609/aaai.v40i9.37688)
+- **[2026] Model confrontation and collaboration: A debate intelligence framework for enhancing medical reasoning in large language models** (Cell Reports Medicine) [[paper]](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00620-2)
 - **[2025] WSI-Agents: A Collaborative Multi-agent System for Multi-modal Whole Slide Image Analysis** (MICCAI) [[paper]](https://papers.miccai.org/miccai-2025/1022-Paper0994.html)
 - **[2025] Learning to be a doctor: Searching for effective medical agent architectures** (ACM MM) [[paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755559)
 - **[2025] Llms can simulate standardized patients via agent coevolution** (ACL) [[paper]](https://aclanthology.org/2025.acl-long.846/)
 - **[2025] MedAgentSim: Self-evolving Multi-agent Simulations for Realistic Clinical Interactions** (MICCAI) [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-05114-1_35)
 - **[2025] MedChain: Bridging the Gap Between LLM Agents and Clinical Practice with Interactive Sequence** (NeurIPS) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6bc02900c74234aa5a0c1a7148ed933f-Abstract-Datasets_and_Benchmarks_Track.html)
 - **[2025] Mrgagents: A multi-agent framework for improved medical report generation with med-lvlms** (DICTA) [[paper]](https://ieeexplore.ieee.org/abstract/document/11302496/)
-- **[2024] Adaptive reasoning and acting in medical language agents** (AIM-FM Workshop) [[paper]](https://openreview.net/forum?id=oqu1ZrZNbb)
 - **[2024] Agent hospital: A simulacrum of hospital with evolvable medical agents** (Arxiv Preprint) [[paper]](https://arxiv.org/abs/2405.02957)
 
 ---
