@@ -74,6 +74,7 @@ Following the structure of our survey, the repository organizes papers along the
 
 - **[2026] Medla: A logic-driven multi-agent framework for complex medical reasoning with large language models** (AAAI) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37052)
 - **[2025] CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01940-4)
+- **[2025] Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration** (WWW) [[paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714877)
 - **[2025] Enhancing diagnostic capability with multi-agents conversational large language models** (NPJ Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01550-0)
 - **[2025] Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases** (Machine Learning for Healthcare Conference) [[paper]](https://raw.githubusercontent.com/mlresearch/v298/main/assets/kim25a/kim25a.pdf)
 - **[2025] Kg4diagnosis: A hierarchical multi-agent llm framework with knowledge graph enhancement for medical diagnosis** (AAAI Bridge Program on AI for Medicine and Healthcare) [[paper]](https://proceedings.mlr.press/v281/zuo25a.html)
@@ -126,7 +127,6 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2026] TumorChain: Interleaved Multimodal Chain-of-Thought Reasoning for Traceable Clinical Tumor Analysis** (ICLR) [[paper]](https://openreview.net/forum?id=bmQXN1Kg5i)
 - **[2025] 3mdbench: Medical multimodal multi-agent dialogue benchmark** (EMNLP) [[paper]](https://aclanthology.org/2025.emnlp-main.1353/)
 - **[2025] Automating expert-level medical reasoning evaluation of large language models** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-02208-7)
-- **[2025] Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration** (WWW) [[paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714877)
 - **[2025] Examining the Vulnerability of Multi-Agent Medical Systems to Human Interventions for Clinical Reasoning** (NeurIPS Workshop) [[paper]](https://openreview.net/forum?id=1rngmK4d2c)
 - **[2025] Healthbench: Evaluating large language models towards improved human health** (Arxiv Preprint) [[paper]](https://arxiv.org/abs/2505.08775)
 - **[2025] LINS: A general medical Q&A framework for enhancing the quality and credibility of LLM-generated responses** (Nature Communications) [[paper]](https://www.nature.com/articles/s41467-025-64142-2)
