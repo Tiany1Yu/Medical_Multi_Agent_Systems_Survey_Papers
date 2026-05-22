@@ -95,7 +95,7 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2026] Doctoragent-rl: A multi-agent collaborative reinforcement learning system for multi-turn clinical dialogue** (ICASSP) [[paper]](https://ieeexplore.ieee.org/abstract/document/11460976/)
 - **[2026] Empowering AI Data Scientists Using a Multi-Agent LLM Framework with Self-Evolving Capabilities for Autonomous, Tool-Aware Biomedical Data Analyses** (Nature Biomedical Engineering) [[paper]](https://doi.org/10.1038/s41551-026-01634-6)
 - **[2026] Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning** (ICLR) [[paper]](https://openreview.net/forum?id=7vHUQCMAzG)
-- **[2026] MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science** (ICLR) [[paper]](https://openreview.net/forum?id=jHDZEUgS4r)
+- **[2026] MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning** (ICLR) [[paper]](https://openreview.net/forum?id=cK35kNVm5r)
 - **[2026] MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning** (ICLR) [[paper]](https://openreview.net/forum?id=2awntLXwR6)
 - **[2026] PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis** (AAAI) [[paper]](https://doi.org/10.1609/aaai.v40i9.37688)
 - **[2026] Model confrontation and collaboration: A debate intelligence framework for enhancing medical reasoning in large language models** (Cell Reports Medicine) [[paper]](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00620-2)
