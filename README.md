@@ -80,7 +80,7 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2025] Kg4diagnosis: A hierarchical multi-agent llm framework with knowledge graph enhancement for medical diagnosis** (AAAI Bridge Program on AI for Medicine and Healthcare) [[paper]](https://proceedings.mlr.press/v281/zuo25a.html)
 - **[2025] MedARC: Adaptive multi-agent refinement and collaboration for enhanced medical reasoning in large language models** (International Journal of Medical Informatics) [[paper]](https://www.sciencedirect.com/science/article/pii/S1386505625003533)
 - **[2025] MoMA: a mixture-of-multimodal-agents architecture for enhancing clinical prediction modelling** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-02219-4)
-- **[2025] Code like humans: A multi-agent solution for medical coding** (Cureus) [[paper]](https://aclanthology.org/2025.findings-emnlp.1231/)
+- **[2025] Code like humans: A multi-agent solution for medical coding** ((Findings of EMNLP) [[paper]](https://aclanthology.org/2025.findings-emnlp.1231/)
 - **[2024] Improving multi-agent debate with sparse communication topology** (Findings of EMNLP) [[paper]](https://aclanthology.org/2024.findings-emnlp.427/)
 - **[2024] Mdagents: An adaptive collaboration of llms for medical decision-making** (NeurIPS) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90d1fc07f46e31387978b88e7e057a31-Abstract-Conference.html)
 - **[2024] Medagents: Large language models as collaborators for zero-shot medical reasoning** (Findings of ACL) [[paper]](https://aclanthology.org/2024.findings-acl.33/)
