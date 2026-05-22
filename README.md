@@ -53,8 +53,8 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2025] A comprehensive survey of large language models and multimodal large language models in medicine** (Information Fusion) [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253524006663)
 - **[2025] A survey of large language models for healthcare: from data, technology, and applications to accountability and ethics** (Information Fusion) [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253525000363)
 - **[2025] A survey of llm-based agents in medicine: How far are we from baymax?** (Findings of ACL) [[paper]](https://aclanthology.org/2025.findings-acl.539/)
-- **[2025] Evaluation of medical large language models: taxonomy, review, and directions** (IJCAI) [[paper]](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/9158.pdf)
-- **[2025] Medical AI Agents: A Comprehensive Survey of Architectures, Cognitive Modules, and Clinical Workflows** (TechRxiv) [[paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176463029.99260745)
+- **[2025] Evaluation of medical large language models: taxonomy, review, and directions** (IJCAI) [[paper]](https://www.ijcai.org/proceedings/2025/1169)
+- **[2025] Medical AI Agents: A Comprehensive Survey of Architectures, Cognitive Modules, and Clinical Workflows** (TechRxiv) [[paper]](https://www.techrxiv.org/doi/10.36227/techrxiv.176463029.99260745)
 - **[2025] Reinventing Clinical Dialogue: Agentic Paradigms for LLM Enabled Healthcare Communication** (Arxiv Preprint) [[paper]](https://arxiv.org/abs/2512.01453)
 - **[2025] The rise and potential of large language model based agents: A survey** (Science China Information Sciences) [[paper]](https://link.springer.com/article/10.1007/s11432-024-4222-0)
 - **[2024] A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges** (Vicinagearth) [[paper]](https://link.springer.com/article/10.1007/s44336-024-00009-2)
@@ -76,11 +76,11 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2025] CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01940-4)
 - **[2025] Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration** (WWW) [[paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714877)
 - **[2025] Enhancing diagnostic capability with multi-agents conversational large language models** (NPJ Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-01550-0)
-- **[2025] Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases** (Machine Learning for Healthcare Conference) [[paper]](https://raw.githubusercontent.com/mlresearch/v298/main/assets/kim25a/kim25a.pdf)
+- **[2025] Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases** (Machine Learning for Healthcare Conference) [[paper]](https://proceedings.mlr.press/v298/kim25a.html)
 - **[2025] Kg4diagnosis: A hierarchical multi-agent llm framework with knowledge graph enhancement for medical diagnosis** (AAAI Bridge Program on AI for Medicine and Healthcare) [[paper]](https://proceedings.mlr.press/v281/zuo25a.html)
 - **[2025] MedARC: Adaptive multi-agent refinement and collaboration for enhanced medical reasoning in large language models** (International Journal of Medical Informatics) [[paper]](https://www.sciencedirect.com/science/article/pii/S1386505625003533)
 - **[2025] MoMA: a mixture-of-multimodal-agents architecture for enhancing clinical prediction modelling** (npj Digital Medicine) [[paper]](https://www.nature.com/articles/s41746-025-02219-4)
-- **[2025] Code like humans: A multi-agent solution for medical coding** ((Findings of EMNLP) [[paper]](https://aclanthology.org/2025.findings-emnlp.1231/)
+- **[2025] Code like humans: A multi-agent solution for medical coding** (Findings of EMNLP) [[paper]](https://aclanthology.org/2025.findings-emnlp.1231/)
 - **[2024] Improving multi-agent debate with sparse communication topology** (Findings of EMNLP) [[paper]](https://aclanthology.org/2024.findings-emnlp.427/)
 - **[2024] Mdagents: An adaptive collaboration of llms for medical decision-making** (NeurIPS) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90d1fc07f46e31387978b88e7e057a31-Abstract-Conference.html)
 - **[2024] Medagents: Large language models as collaborators for zero-shot medical reasoning** (Findings of ACL) [[paper]](https://aclanthology.org/2024.findings-acl.33/)
@@ -120,7 +120,7 @@ Following the structure of our survey, the repository organizes papers along the
 ## 📊 6. Benchmarks and Evaluation
 
 - **[2026] Beyond Classification Accuracy: Neural-MedBench and the Need for Deeper Reasoning Benchmarks** (ICLR) [[paper]](https://openreview.net/forum?id=KKA59ai0x6)
-- **[2026] CASSIA: A multi-agent large language model for automated and interpretable cell annotation** (Nature Communications) [[paper]](https://www.nature.com/articles/s41467-025-67084-x)
+- **[2025] CASSIA: A multi-agent large language model for automated and interpretable cell annotation** (Nature Communications) [[paper]](https://www.nature.com/articles/s41467-025-67084-x)
 - **[2026] Holistic evaluation of large language models for medical tasks with MedHELM** (Nature Medicine) [[paper]](https://www.nature.com/articles/s41591-025-04151-2)
 - **[2026] MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science** (ICLR) [[paper]](https://openreview.net/forum?id=jHDZEUgS4r)
 - **[2026] Orchestrated multi agents sustain accuracy under clinical-scale workloads compared to a single agent** (npj Health Systems) [[paper]](https://www.nature.com/articles/s44401-026-00077-0)
@@ -139,7 +139,7 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2025] Medagentsbench: Benchmarking thinking models and agent frameworks for complex medical reasoning** (Arxiv Preprint) [[paper]](https://arxiv.org/abs/2503.07459)
 - **[2025] Medkgeval: A knowledge graph-based multi-turn evaluation framework for open-ended patient interactions with clinical llms** (Arxiv Preprint) [[paper]](https://arxiv.org/abs/2510.12224)
 - **[2025] Medxpertqa: Benchmarking expert-level medical reasoning and understanding** (ICML) [[paper]](https://openreview.net/forum?id=IyVcxU0RKI)
-- **[2025] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** (PMLR) [[paper]](https://openreview.net/forum?id=GazlTYxZss&noteId=cypPlShPMW)
+- **[2025] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems** (ICML) [[paper]](https://openreview.net/forum?id=GazlTYxZss&noteId=cypPlShPMW)
 - **[2025] WSI-Agents: A Collaborative Multi-agent System for Multi-modal Whole Slide Image Analysis** (MICCAI) [[paper]](https://papers.miccai.org/miccai-2025/1022-Paper0994.html)
 - **[2024] Agentclinic: a multimodal agent benchmark to evaluate ai in simulated clinical environments** (Arxiv Preprint) [[paper]](https://arxiv.org/abs/2405.07960)
 - **[2024] MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making** (NeurIPS) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90d1fc07f46e31387978b88e7e057a31-Abstract-Conference.html)
@@ -175,7 +175,7 @@ Following the structure of our survey, the repository organizes papers along the
 
 - **[2025] AFlow: Automating Agentic Workflow Generation** (ICLR) [[paper]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/5492ecbce4439401798dcd2c90be94cd-Abstract-Conference.html)
 - **[2024] AutoAgents: A Framework for Automatic Agent Generation** (IJCAI) [[paper]](https://www.ijcai.org/proceedings/2024/3)
-- **[2024] GPTSwarm: Language Agents as Optimizable Graphs** (PMLR) [[paper]](https://proceedings.mlr.press/v235/zhuge24a.html)
+- **[2024] GPTSwarm: Language Agents as Optimizable Graphs** (ICML) [[paper]](https://proceedings.mlr.press/v235/zhuge24a.html)
 # 🤝 Contributing
 
 LLM-based medical multi-agent systems are developing rapidly, and this list may miss relevant work. Contributions are welcome. Please feel free to open an issue or submit a pull request if you would like to add papers, benchmarks, frameworks, or other resources.
