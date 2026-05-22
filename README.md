@@ -98,7 +98,7 @@ Following the structure of our survey, the repository organizes papers along the
 - **[2026] MedVR: Annotation-Free Medical Visual Reasoning via Agentic Reinforcement Learning** (ICLR) [[paper]](https://openreview.net/forum?id=cK35kNVm5r)
 - **[2026] MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning** (ICLR) [[paper]](https://openreview.net/forum?id=2awntLXwR6)
 - **[2026] PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis** (AAAI) [[paper]](https://doi.org/10.1609/aaai.v40i9.37688)
-- **[2026] Model confrontation and collaboration: A debate intelligence framework for enhancing medical reasoning in large language models** (Cell Reports Medicine) [[paper]](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00620-2)
+- **[2026] Model confrontation and collaboration: A debate intelligence framework for enhancing medical reasoning in large language models** (Cell Reports Medicine) [[paper]](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2825%2900620-2)
 - **[2025] WSI-Agents: A Collaborative Multi-agent System for Multi-modal Whole Slide Image Analysis** (MICCAI) [[paper]](https://papers.miccai.org/miccai-2025/1022-Paper0994.html)
 - **[2025] Learning to be a doctor: Searching for effective medical agent architectures** (ACM MM) [[paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755559)
 - **[2025] Llms can simulate standardized patients via agent coevolution** (ACL) [[paper]](https://aclanthology.org/2025.acl-long.846/)
@@ -120,7 +120,7 @@ Following the structure of our survey, the repository organizes papers along the
 ## 📊 6. Benchmarks and Evaluation
 
 - **[2026] Beyond Classification Accuracy: Neural-MedBench and the Need for Deeper Reasoning Benchmarks** (ICLR) [[paper]](https://openreview.net/forum?id=KKA59ai0x6)
-- **[2025] CASSIA: A multi-agent large language model for automated and interpretable cell annotation** (Nature Communications) [[paper]](https://www.nature.com/articles/s41467-025-67084-x)
+- **[2026] CASSIA: A multi-agent large language model for automated and interpretable cell annotation** (Nature Communications) [[paper]](https://www.nature.com/articles/s41467-025-67084-x)
 - **[2026] Holistic evaluation of large language models for medical tasks with MedHELM** (Nature Medicine) [[paper]](https://www.nature.com/articles/s41591-025-04151-2)
 - **[2026] MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science** (ICLR) [[paper]](https://openreview.net/forum?id=jHDZEUgS4r)
 - **[2026] Orchestrated multi agents sustain accuracy under clinical-scale workloads compared to a single agent** (npj Health Systems) [[paper]](https://www.nature.com/articles/s44401-026-00077-0)
